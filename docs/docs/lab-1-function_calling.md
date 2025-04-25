@@ -72,8 +72,8 @@ In this lab, you will enable the function logic to execute dynamic SQL queries a
 
     3. Review the code in `labs/lab1.py`. It:
 
-        1. Sets the **instructions file**.
-        2. Adds **function calling** support to the agent app.
+        1. Sets the **instruction file**.
+        2. Adds the **function calling** tool to the agent app.
 
         ```python
         {% include-markdown "../../src/python/workshop/labs/lab1.py" %}

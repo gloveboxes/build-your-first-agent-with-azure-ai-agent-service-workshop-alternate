@@ -19,7 +19,7 @@ In this lab, you'll enable the Code Interpreter to execute Python code generated
     3. Review the code in `labs/lab3.py`. It:
 
         1. Sets the **instruction file**.
-        2. Adds **function calling**, **file search**, and the **Code Interpreter** to the agent app.
+        2. Adds **function calling**, **file search**, and the **Code Interpreter** tools to the agent app.
 
         ```python
         {% include-markdown "../../src/python/workshop/labs/lab3.py" %}
