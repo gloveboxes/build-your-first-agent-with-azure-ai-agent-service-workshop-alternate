@@ -16,10 +16,10 @@ In this lab, you'll enable the Code Interpreter to execute Python code generated
         LAB_NUMBER = 3
         ```
 
-    2. Review the code in labs/lab3.py.  The code is responsible for:
+    3. Review the code in `labs/lab3.py`. It:
 
-        1. Setting the **instruction file**.
-        2. Adding **function calling**, **file search**, and the **Code Interpreter** to the agent app.
+        1. Sets the **instruction file**.
+        2. Adds **function calling**, **file search**, and the **Code Interpreter** to the agent app.
 
         ```python
         {% include-markdown "../../src/python/workshop/labs/lab3.py" %}

@@ -26,10 +26,10 @@ A [vector store](https://en.wikipedia.org/wiki/Vector_database){:target="_blank"
         LAB_NUMBER = 2
         ```
 
-    2. Review the code in labs/lab2.py. The code is responsible for:
+    2. Review the code in `labs/lab2.py`. It:
 
-        1. Setting the **instruction file**.
-        2. Adding **function calling** and **file search** to the agent app.
+        1. Sets the **instruction file**.
+        2. Adds **function calling** and **file search** to the agent app.
 
         ```python
         {% include-markdown "../../src/python/workshop/labs/lab2.py" %}
